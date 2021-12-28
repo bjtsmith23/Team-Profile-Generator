@@ -1,3 +1,54 @@
+# Team Profile Generator
+
+[![License Badge](https://img.shields.io/static/v1?label=License&message=MIT&color=blue&?style=plastic&link=https://choosealicense.com/licenses/mit/)](https://choosealicense.com/licenses/mit/)
+
+  ## Table of Contents
+  - [Description](#Description)
+  - [Installations](#Installations)
+  - [Usage](#Usage)
+  - [Tests](#Tests)
+  - [License](#License)
+  - [Questions](#Questions)
+  ## Description
+
+  Answer the questions in the command line to constructed cards generated with team members info
+  ## Installations
+
+  npm i
+  ## Usage
+  To build and keep track of team
+
+  ## Tests
+  npm test
+
+  ## License
+  [![License Badge](https://img.shields.io/static/v1?label=License&message=MIT&color=blue&?style=plastic&link=https://choosealicense.com/licenses/mit/)](https://choosealicense.com/licenses/mit/)
+
+  </br>
+
+  This application uses MIT license. 
+
+  
+  ## Questions 
+
+  If you have any questions or would like to contact me, you can [email](mailto:bjtsmith23@gmail.com) me
+  or check out my [GitHub](https://github.com/bjtsmith23).
+
+  ## Video Walkthrough
+
+  https://drive.google.com/file/d/1bnK0AorfbUh9NqhqgvaDEPwDJHF7JPNY/view?usp=sharing
+
+
+
+
+
+
+
+
+
+
+
+
 # 10 Object-Oriented Programming: Team Profile Generator
 
 ## Your Task
